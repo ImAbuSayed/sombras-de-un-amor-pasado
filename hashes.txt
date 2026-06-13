@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sombras de un amor pasado
+
+This log tracks the cryptographic history and versioning for the song **Sombras de un amor pasado** (sombras-de-un-amor-pasado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:13:43.784599 | `v1` | `3e77d436f7d3c5db5bd10bb79cb88e670c4e126db5535cf1f4b9524061095f77` | `308357ff536cdbcef0b6d3bec52ff575ace906efbff51ae97c3ca5abc7f0bc48` | `2026-06-14_sombras-de-un-amor-pasado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
